@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BusolAde24
+- 👋 Hi, I’m Busola Adesanya
 - 👀 I’m interested in  Data Analytics and Business Intelligence roles
 - 🌱 I’m always learning about data analytics
 - 💞️ I’m looking to collaborate on Data relayted tasks
